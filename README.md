@@ -1,3 +1,3 @@
-# Blagger
+# BloggingWithGrails
 
-Blagger is a small, Grails based, blogging app.
+Blogging with Grails.
